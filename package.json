@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@react-pdf/renderer": "^3.4.4",
+    "puppeteer": "^23.0.0",
+    "resend": "^4.0.0",
+    "react-hook-form": "^7.51.0",
+    "zod": "^3.23.8",
+    "@gumroad/gumroad-js": "^1.0.1"
+  }
+}
