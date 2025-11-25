@@ -6,5 +6,10 @@
     "react-hook-form": "^7.51.0",
     "zod": "^3.23.8",
     "@gumroad/gumroad-js": "^1.0.1"
+      "pdf-lib": "^1.17.1",
+    "@react-pdf/renderer": "^3.4.4",
+    "resend": "^4.0.0",
+    "zod": "^3.23.8",
+    "@hookform/resolvers": "^3.3.4"
   }
 }
